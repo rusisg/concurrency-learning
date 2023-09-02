@@ -42,9 +42,6 @@ func foundTreasure() bool {
 	return 0 == rand.Intn(10)
 }
 
-func abdanddajda )_ ada
-
-
 // var missionCompleted bool
 // var numberOfGoroutines int
 
